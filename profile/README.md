@@ -7,16 +7,14 @@
 <h3> Quem somos </h3>
 <img src="https://i.ibb.co/r4r7xTy/line.png" height="10" align="left"> <br>
 
-Pensando no conceito Prevenção, recuperação da saúde e propiciar qualidade de vida melhor, saudável e acessível, resolvemos fazer algo que pudesse
+Pensando no conceito Prevenção, recuperação da saúde e propiciar uma qualidade de vida melhor, saudável e acessível, resolvemos fazer algo que pudesse
 ocupar a ociosidade e o tempo livre da população envolvendo desde crianças, adolescentes, jovens, adultos e principalmente idosos. O projeto reune um
 site com atividades físicas e práticas corporais de forma coletiva ao ar livre, com um valor simbólico e com data e horário agendados. 
 
 <h3> Conceito </h3>
 <img src="https://i.ibb.co/r4r7xTy/line.png" height="10" align="left"> <br>
 
-Pensando no conceito Prevenção, recuperação da saúde e propiciar qualidade de vida melhor, saudável e acessível, resolvemos fazer algo que pudesse
-ocupar a ociosidade e o tempo livre da população envolvendo desde crianças, adolescentes, jovens, adultos e principalmente idosos. O projeto reune um
-site com atividades físicas e práticas corporais de forma coletiva ao ar livre, com um valor simbólico e com data e horário agendados. 
+Projeto desenvolvido sobre a <a href=https://brasil.un.org/pt-br/sdgs/3>ODS 3</a> da ONU, onde foi elaborado uma desafiadora missão de como fazer um mundo melhor até 2030. 
 
 <h3> Contributiors: </h3>
 <img src="https://i.ibb.co/r4r7xTy/line.png" height="10" align="left"> <br>
