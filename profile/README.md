@@ -49,11 +49,8 @@ site com atividades físicas e práticas corporais de forma coletiva ao ar livre
     <img src="https://user-images.githubusercontent.com/63007830/118865620-8253fb80-b8b7-11eb-9837-27a58f25c452.png" height="50">
     <img src="https://user-images.githubusercontent.com/63007830/118865731-a283ba80-b8b7-11eb-9598-d3229dd3475f.png" height="50">
     <img src="https://user-images.githubusercontent.com/63007830/118865767-b0394000-b8b7-11eb-88a2-21597d612d4a.png" height="50">
-    <img src="https://user-images.githubusercontent.com/63007830/118865805-bcbd9880-b8b7-11eb-914b-53905bff95d3.png" height="50">
-    <img src="https://user-images.githubusercontent.com/63007830/118865865-cd6e0e80-b8b7-11eb-816b-bc87c2f6086a.png" height="50">
     <img src="https://user-images.githubusercontent.com/63007830/118865225-1ffafb00-b8b7-11eb-80fa-bd66b41c7871.png" height="50">
     <img src="https://user-images.githubusercontent.com/63007830/118866068-01e1ca80-b8b8-11eb-8356-bbd0b2202e18.png" height="50">
-    <img src="https://user-images.githubusercontent.com/63007830/118866127-132ad700-b8b8-11eb-8335-76f54a79fb8b.png" height="50">
   </div>
   </br>
 
