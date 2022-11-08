@@ -20,13 +20,13 @@ Projeto desenvolvido sobre a <a href=https://brasil.un.org/pt-br/sdgs/3>ODS 3</a
 <img src="https://i.ibb.co/r4r7xTy/line.png" height="10" align="left"> <br>
 
 <div align="left">
- <a href="https://www.linkedin.com/in/brunopinatrotta/"> <img src="https://avatars.githubusercontent.com/u/112709471?v=4" height="100" alt="Bruno"> </a>
- <a href="https://www.linkedin.com/in/erikabeatrizf/"><img src="https://avatars.githubusercontent.com/u/112709766?v=4" height="100" alt="Erika"> </a>
- <a href="https://www.linkedin.com/in/igor-de-lima-da-silva-a40770244/"><img src="https://avatars.githubusercontent.com/u/95720918?v=4" height="100" alt="Igor"> </a>
- <a href="https://www.linkedin.com/in/mauriciocarvalhojb/"><img src="https://avatars.githubusercontent.com/u/111585417?v=4" height="100" alt="Mauricio"> </a>
- <a href="https://www.linkedin.com/in/nat%C3%A1lia-dos-santos-nery-897a72248/"><img src="https://avatars.githubusercontent.com/u/112709527?v=4" height="100" alt="Natalia"> </a>
- <a href="https://www.linkedin.com/in/wallacearaujo27/"><img src="https://avatars.githubusercontent.com/u/112869411?v=4" height="100" alt="Wallace"> </a>
- <a href="https://www.linkedin.com/in/weslley-matos-b267651b1/"> <img src="https://avatars.githubusercontent.com/u/63007830?v=4" height="100" alt="Wesley"> </a>
+ <a href="https://www.linkedin.com/in/brunopinatrotta/"> <img src="https://avatars.githubusercontent.com/u/112709471?v=4" height="100" title="Bruno Pina"> </a>
+ <a href="https://www.linkedin.com/in/erikabeatrizf/"><img src="https://avatars.githubusercontent.com/u/112709766?v=4" height="100" title="Erika Beatriz"> </a> 
+ <a href="https://www.linkedin.com/in/igor-de-lima-da-silva-a40770244/"><img src="https://avatars.githubusercontent.com/u/95720918?v=4" height="100" title="Igor Lima"> </a>
+ <a href="https://www.linkedin.com/in/mauriciocarvalhojb/"><img src="https://avatars.githubusercontent.com/u/111585417?v=4" height="100" title="Mauricio Carvalho"> </a>
+ <a href="https://www.linkedin.com/in/nat%C3%A1lia-dos-santos-nery-897a72248/"><img src="https://avatars.githubusercontent.com/u/112709527?v=4" height="100" title="Natalia Nery"> </a>
+ <a href="https://www.linkedin.com/in/wallacearaujo27/"><img src="https://avatars.githubusercontent.com/u/112869411?v=4" height="100" title="Wallace Araujo"> </a>
+ <a href="https://www.linkedin.com/in/weslley-matos-b267651b1/"> <img src="https://avatars.githubusercontent.com/u/63007830?v=4" height="100" title="Wesley Matos"> </a>
 </div>
 
 
