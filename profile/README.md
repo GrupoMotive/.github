@@ -20,22 +20,14 @@ Projeto desenvolvido sobre a <a href=https://brasil.un.org/pt-br/sdgs/3>ODS 3</a
 <img src="https://i.ibb.co/r4r7xTy/line.png" height="10" align="left"> <br>
 
 <div align="left">
-<img src="https://avatars.githubusercontent.com/u/112709471?v=4" height="100" alt="Bruno">
-<img src="https://avatars.githubusercontent.com/u/112709766?v=4" height="100" alt="Erika">
-<img src="https://avatars.githubusercontent.com/u/95720918?v=4" height="100" alt="Igor">
-<img src="https://avatars.githubusercontent.com/u/111585417?v=4" height="100" alt="Mauricio">
-<img src="https://avatars.githubusercontent.com/u/112709527?v=4" height="100" alt="Natalia">
-<img src="https://avatars.githubusercontent.com/u/112869411?v=4" height="100" alt="Wallace">
-<img src="https://avatars.githubusercontent.com/u/63007830?v=4" height="100" alt="Wesley">
- </div>
-
-<a href= https://github.com/Leeymattos> Bruno</a>,
-<a href= https://github.com/ErikaBeatrizz> Erika </a>,
-<a href=https://github.com/igor02b1> Igor </a>,
-<a href=https://github.com/CarvalhoZD> Mauricio </a>,
-<a href= https://github.com/NataliaNery14> Natália </a>,
-<a href=https://github.com/WallaceArauj>  Wallace </a> e
-<a href=https://github.com/Leeymattos> Wesley </a>
+ <a href="https://www.linkedin.com/in/brunopinatrotta/"> <img src="https://avatars.githubusercontent.com/u/112709471?v=4" height="100" alt="Bruno"> </a>
+ <a href="https://www.linkedin.com/in/erikabeatrizf/"><img src="https://avatars.githubusercontent.com/u/112709766?v=4" height="100" alt="Erika"> </a>
+ <a href="https://www.linkedin.com/in/igor-de-lima-da-silva-a40770244/"><img src="https://avatars.githubusercontent.com/u/95720918?v=4" height="100" alt="Igor"> </a>
+ <a href="https://www.linkedin.com/in/mauriciocarvalhojb/"><img src="https://avatars.githubusercontent.com/u/111585417?v=4" height="100" alt="Mauricio"> </a>
+ <a href="https://www.linkedin.com/in/nat%C3%A1lia-dos-santos-nery-897a72248/"><img src="https://avatars.githubusercontent.com/u/112709527?v=4" height="100" alt="Natalia"> </a>
+ <a href="https://www.linkedin.com/in/wallacearaujo27/"><img src="https://avatars.githubusercontent.com/u/112869411?v=4" height="100" alt="Wallace"> </a>
+ <a href="https://www.linkedin.com/in/weslley-matos-b267651b1/"> <img src="https://avatars.githubusercontent.com/u/63007830?v=4" height="100" alt="Wesley"> </a>
+</div>
 
 
 <h3> Recursos </h3>
