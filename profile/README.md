@@ -2,20 +2,19 @@
  <img src="https://i.ibb.co/mzrRSCM/Prancheta-1.png" width="1000" alt="Motive Logo"/>
 </p>
 
-
 <h3> Quem somos </h3>
 <img src="https://i.ibb.co/r4r7xTy/line.png" height="10" align="left"> <br>
 
-Pensando no conceito Prevenção, recuperação da saúde e propiciar uma qualidade de vida melhor, saudável e acessível, resolvemos fazer algo que pudesse
+Pensando no conceito prevenção, recuperação da saúde e proporcionar uma qualidade de vida melhor, saudável e acessível, resolvemos fazer algo que pudesse
 ocupar a ociosidade e o tempo livre da população envolvendo desde crianças, adolescentes, jovens, adultos e principalmente idosos. O projeto reune um
 site com atividades físicas e práticas corporais de forma coletiva ao ar livre, com um valor simbólico e com data e horário agendados. 
 
-<h3> Conceito </h3>
+## <h3> Conceito </h3>
 <img src="https://i.ibb.co/r4r7xTy/line.png" height="10" align="left"> <br>
 
 Projeto desenvolvido sobre a <a href=https://brasil.un.org/pt-br/sdgs/3>ODS 3</a> da <a href=https://brasil.un.org/pt-br3>ONU</a>, onde foi elaborado uma desafiadora missão de como fazer um mundo melhor até 2030. 
 
-<h3> Contributiors: </h3>
+## <h3> Contributiors: </h3>
 <img src="https://i.ibb.co/r4r7xTy/line.png" height="10" align="left"> <br>
 
 <div align="left">
@@ -29,7 +28,7 @@ Projeto desenvolvido sobre a <a href=https://brasil.un.org/pt-br/sdgs/3>ODS 3</a
 </div>
 
 
-<h3> Recursos </h3>
+## <h3> Recursos </h3>
 <img src="https://i.ibb.co/r4r7xTy/line.png" height="10" align="left"> <br>
  <div align="left">
     <img src="https://user-images.githubusercontent.com/63007830/118865186-14a7cf80-b8b7-11eb-97ce-41499b36eddd.png" height="50">
