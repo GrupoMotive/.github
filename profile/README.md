@@ -31,14 +31,14 @@ Projeto desenvolvido sobre a <a href=https://brasil.un.org/pt-br/sdgs/3>ODS 3</a
 ## <h3> Recursos </h3>
 <img src="https://i.ibb.co/r4r7xTy/line.png" height="10" align="left"> <br>
  <div align="left">
-    <img src="https://user-images.githubusercontent.com/63007830/118865186-14a7cf80-b8b7-11eb-97ce-41499b36eddd.png" height="50">
-    <img src="https://user-images.githubusercontent.com/63007830/118865010-e629f480-b8b6-11eb-9f68-8eeb94c52286.png" height="50">
-    <img src="https://user-images.githubusercontent.com/63007830/118865357-37d27f00-b8b7-11eb-8e3e-57e60e2130d6.png" height="50">
-    <img src="https://user-images.githubusercontent.com/63007830/118865620-8253fb80-b8b7-11eb-9837-27a58f25c452.png" height="50">
-    <img src="https://user-images.githubusercontent.com/63007830/118865731-a283ba80-b8b7-11eb-9598-d3229dd3475f.png" height="50">
-    <img src="https://user-images.githubusercontent.com/63007830/118865767-b0394000-b8b7-11eb-88a2-21597d612d4a.png" height="50">
-    <img src="https://user-images.githubusercontent.com/63007830/118865225-1ffafb00-b8b7-11eb-80fa-bd66b41c7871.png" height="50">
-    <img src="https://user-images.githubusercontent.com/63007830/118866068-01e1ca80-b8b8-11eb-8356-bbd0b2202e18.png" height="50">
+    <img src="https://user-images.githubusercontent.com/63007830/118865186-14a7cf80-b8b7-11eb-97ce-41499b36eddd.png" height="55">
+    <img src="https://user-images.githubusercontent.com/63007830/118865010-e629f480-b8b6-11eb-9f68-8eeb94c52286.png" height="55">
+    <img src="https://user-images.githubusercontent.com/63007830/118865357-37d27f00-b8b7-11eb-8e3e-57e60e2130d6.png" height="55">
+    <img src="https://user-images.githubusercontent.com/63007830/118865620-8253fb80-b8b7-11eb-9837-27a58f25c452.png" height="55">
+    <img src="https://user-images.githubusercontent.com/63007830/118865731-a283ba80-b8b7-11eb-9598-d3229dd3475f.png" height="55">
+    <img src="https://user-images.githubusercontent.com/63007830/118865767-b0394000-b8b7-11eb-88a2-21597d612d4a.png" height="55">
+    <img src="https://user-images.githubusercontent.com/63007830/118865225-1ffafb00-b8b7-11eb-80fa-bd66b41c7871.png" height="55">
+    <img src="https://user-images.githubusercontent.com/63007830/118866068-01e1ca80-b8b8-11eb-8356-bbd0b2202e18.png" height="55">
   </div>
   </br>
 
