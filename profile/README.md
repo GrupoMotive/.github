@@ -1,7 +1,6 @@
 <p align="center">
- <img src="https://i.ibb.co/mzrRSCM/Prancheta-1.png" width="1000" alt="Motive Logo" /></a>
+ <img src="https://i.ibb.co/mzrRSCM/Prancheta-1.png" width="1000" alt="Motive Logo"/>
 </p>
-
 
 
 <h3> Quem somos </h3>
