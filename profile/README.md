@@ -20,7 +20,7 @@ Projeto desenvolvido sobre a <a href=https://brasil.un.org/pt-br/sdgs/3>ODS 3</a
 <div align="left">
  <a href="https://www.linkedin.com/in/brunopinatrotta/"> <img src="https://avatars.githubusercontent.com/u/112709471?v=4" height="90" title="Bruno Pina"> </a>
  <a href="https://www.linkedin.com/in/erikabeatrizf/"><img src="https://avatars.githubusercontent.com/u/112709766?v=4" height="90" title="Erika Beatriz"> </a> 
- <a href="https://www.linkedin.com/in/igor-de-lima-da-silva-a40770244/"><img src="https://i.ibb.co/6n0dRTC/igo.jpg" height="90" title="Igor Lima"> </a>
+ <a href="https://www.linkedin.com/in/igor-de-lima-da-silva-a40770244/"><img src="https://i.ibb.co/XVQRGLQ/igor.jpg" height="90" title="Igor Lima"> </a>
  <a href="https://www.linkedin.com/in/mauriciocarvalhojb/"><img src="https://avatars.githubusercontent.com/u/111585417?v=4" height="90" title="Mauricio Carvalho"> </a>
  <a href="https://www.linkedin.com/in/nat%C3%A1lia-dos-santos-nery-897a72248/"><img src="https://avatars.githubusercontent.com/u/112709527?v=4" height="90" title="Natalia Nery"> </a>
  <a href="https://www.linkedin.com/in/wallacearaujo27/"><img src="https://i.ibb.co/nDmVyp5/wall.jpg" height="90" title="Wallace Araujo"> </a>
