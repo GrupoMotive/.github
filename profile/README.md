@@ -18,13 +18,13 @@ Projeto desenvolvido sobre a <a href=https://brasil.un.org/pt-br/sdgs/3>ODS 3</a
 <img src="https://i.ibb.co/r4r7xTy/line.png" height="10" align="left"> <br>
 
 <div align="left">
- <a href="https://www.linkedin.com/in/brunopinatrotta/"> <img src="https://avatars.githubusercontent.com/u/112709471?v=4" height="90" title="Bruno Pina"> </a>
- <a href="https://www.linkedin.com/in/erikabeatrizf/"><img src="https://avatars.githubusercontent.com/u/112709766?v=4" height="90" title="Erika Beatriz"> </a> 
- <a href="https://www.linkedin.com/in/igor-de-lima-da-silva-a40770244/"><img src="https://i.ibb.co/XVQRGLQ/igor.jpg" height="90" title="Igor Lima"> </a>
- <a href="https://www.linkedin.com/in/mauriciocarvalhojb/"><img src="https://avatars.githubusercontent.com/u/111585417?v=4" height="90" title="Mauricio Carvalho"> </a>
- <a href="https://www.linkedin.com/in/nat%C3%A1lia-dos-santos-nery-897a72248/"><img src="https://avatars.githubusercontent.com/u/112709527?v=4" height="90" title="Natalia Nery"> </a>
- <a href="https://www.linkedin.com/in/wallacearaujo27/"><img src="https://i.ibb.co/nDmVyp5/wall.jpg" height="90" title="Wallace Araujo"> </a>
- <a href="https://www.linkedin.com/in/weslley-matos-b267651b1/"> <img src="https://avatars.githubusercontent.com/u/63007830?v=4" height="90" title="Wesley Matos"> </a>
+ <a href="https://www.linkedin.com/in/brunopinatrotta/"> <img src="https://avatars.githubusercontent.com/u/112709471?v=4" height="100" title="Bruno Pina"> </a>
+ <a href="https://www.linkedin.com/in/erikabeatrizf/"><img src="https://avatars.githubusercontent.com/u/112709766?v=4" height="100" title="Erika Beatriz"> </a> 
+ <a href="https://www.linkedin.com/in/igor-de-lima-da-silva-a40770244/"><img src="https://i.ibb.co/XVQRGLQ/igor.jpg" height="100" title="Igor Lima"> </a>
+ <a href="https://www.linkedin.com/in/mauriciocarvalhojb/"><img src="https://avatars.githubusercontent.com/u/111585417?v=4" height="100" title="Mauricio Carvalho"> </a>
+ <a href="https://www.linkedin.com/in/nat%C3%A1lia-dos-santos-nery-897a72248/"><img src="https://avatars.githubusercontent.com/u/112709527?v=4" height="100" title="Natalia Nery"> </a>
+ <a href="https://www.linkedin.com/in/wallacearaujo27/"><img src="https://i.ibb.co/nDmVyp5/wall.jpg" height="100" title="Wallace Araujo"> </a>
+ <a href="https://www.linkedin.com/in/weslley-matos-b267651b1/"> <img src="https://avatars.githubusercontent.com/u/63007830?v=4" height="100" title="Wesley Matos"> </a>
 </div>
 
 
@@ -36,10 +36,14 @@ Projeto desenvolvido sobre a <a href=https://brasil.un.org/pt-br/sdgs/3>ODS 3</a
   <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript" width="35" height="35"/>
   <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" height="35" alt="typescript">
   <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" height="35" alt="nodejs">
+  <img src="https://static-00.iconduck.com/assets.00/nestjs-icon-512x510-9nvpcyc3.png" height="35" alt="nestjs">
   <img src="https://cdn.svgporn.com/logos/git-icon.svg" height="35" alt="git">
   <img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="postgresql" width="35" height="35"/>
   <img src="https://cdn.svgporn.com/logos/mysql.svg" alt="mysql" width="35" height="35"/> 
-  <img src="https://cdn.svgporn.com/logos/react.svg" alt="react" width="35" height="35"/> 
+  <img src="https://cdn.svgporn.com/logos/react.svg" alt="react" width="35" height="35"/>
+  <img src="https://mui.com/static/logo.png" alt="material-ui" width="35" height="35"/>
+  <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/insomnia-icon.png" alt="insomnia" width="35" height="35"/> 
+ 
 </div>
   
   
