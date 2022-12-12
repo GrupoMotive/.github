@@ -12,7 +12,8 @@ site com atividades físicas e práticas corporais de forma coletiva ao ar livre
 ## <h3> Conceito </h3>
 <img src="https://i.ibb.co/r4r7xTy/line.png" height="10" align="left"> <br>
 
-Projeto desenvolvido sobre a <a href=https://brasil.un.org/pt-br/sdgs/3>ODS 3</a> da <a href=https://brasil.un.org/pt-br3>ONU</a>, onde foi elaborado uma desafiadora missão de como fazer um mundo melhor até 2030. 
+Projeto desenvolvido sobre a <a href=https://brasil.un.org/pt-br/sdgs/3>ODS 3</a> da <a href=https://brasil.un.org/pt-br3>ONU</a>, com o propósito de transformar cidades em espaços de bem-estar, e com a desafiadora missão de como fazer um mundo melhor até 2030. 
+
 
 ## <h3> Contributiors: </h3>
 <img src="https://i.ibb.co/r4r7xTy/line.png" height="10" align="left"> <br>
