@@ -5,9 +5,14 @@
 <h3> Quem somos </h3>
 <img src="https://i.ibb.co/r4r7xTy/line.png" height="10" align="left"> <br>
 
-Pensando no conceito prevenção, recuperação da saúde e proporcionar uma qualidade de vida melhor, saudável e acessível, resolvemos fazer algo que pudesse
-ocupar a ociosidade e o tempo livre da população envolvendo desde crianças, adolescentes, jovens, adultos e principalmente idosos. O projeto reune um
-site com atividades físicas e práticas corporais de forma coletiva ao ar livre, com um valor simbólico e com data e horário agendados. 
+Somos a MOTIVE, site de saúde e bem-estar.
+
+Pensando no conceito prevenção, recuperação da saúde e proporcionar uma qualidade de vida melhor, saudável e acessível, resolvemos fazer algo que pudesse ocupar a ociosidade e o tempo livre da população envolvendo desde crianças, adolescentes, jovens, adultos e principalmente idosos.
+
+O projeto reune um site com aulas presenciais em várias cidades do Rio de Janeiro, em parques e praias, praças e espaços de lazer. Reunimos atividades físicas e práticas corporais de forma coletiva ao ar livre, com um valor simbólico e com data e horário predefinido.
+
+Verdadeiros pontos de encontro com o bem-estar, para que possa se exercitar no seu tempo, no seu ritmo e ao ar livre. Então é só acessar o site, fazer seu cadastro, achar a aula ou o treino que mais combina com você e começar a se exercitar! Motive!
+
 
 ## <h3> Conceito </h3>
 <img src="https://i.ibb.co/r4r7xTy/line.png" height="10" align="left"> <br>
